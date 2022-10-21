@@ -1,11 +1,38 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+Random User App 2 
 
-# Project-004 : Random User App 2 
+
+  Project Name       |Libraries and Technologies I use     |How does my project look   
+:-------------------------|-------------------------|-------------------------
+[Random_user_app]()| Js React | ![Random_user_app](userApp.gif)
+
+
+
+I used;
+
+Components
+
+useState
+
+useEffect
+
+axios
+
+import/export
+
+Props
+
+React Developer Tool
+
+Destructuring props
+
+array map method
+
+array some method
 
 ## Description
 
-Project aims to create a Random User App 2.
+
+
 
 ## Problem Statement
 
@@ -14,7 +41,7 @@ Project aims to create a Random User App 2.
 ## Project Skeleton
 
 ```
-004 - Random User App 2 (folder)
+Random User App 2 (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
@@ -33,7 +60,6 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project 004 Snapshot](random-user-app.gif)
 
 ## Objective
 
